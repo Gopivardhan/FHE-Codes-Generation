@@ -1,0 +1,22 @@
+{
+    "feature_names": [
+        "longitude",
+        "latitude",
+        "housing_median_age",
+        "total_rooms",
+        "total_bedrooms",
+        "population",
+        "households",
+        "median_income",
+        "ocean_proximity_1h_ocean",
+        "ocean_proximity_inland",
+        "ocean_proximity_island",
+        "ocean_proximity_near_bay",
+        "ocean_proximity_near_ocean"
+    ],
+    "clip_target_max": 500000,
+    "target_scaler": {
+        "mean": 207630.16511165493,
+        "scale": 116556.17916466035
+    }
+}

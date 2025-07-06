@@ -1,0 +1,12 @@
+{
+    "input_dim": 13,
+    "hidden_layers": [
+      32
+    ],
+    "output_dim": 1,
+    "activation": "SquareActivation",
+    "activation_params": {
+      "beta": 1.0485346674919128,
+      "gamma": 0.5713829457759857
+    }
+  }
